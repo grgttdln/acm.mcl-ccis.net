@@ -11,6 +11,7 @@ import Head from '../components/common/Head';
 import Divider from '../components/common/Divider';
 import EventModal from '../components/events/EventModal';
 import TagDropdown from '../components/events/TagDropdown';
+import NewsPage from '../features/NewsPage';
 
 export default function events({ data, location }) {
   const [year, setYear] = useState('All');
@@ -172,6 +173,10 @@ export default function events({ data, location }) {
           location={location.search}
         />
       </div>
+      
+      <Divider className='lg:my-24 mx-5 lg:mx-0 lg:w-11/12 lg:h-[2px] lg:shadow-none hidden lg:block' />
+      <NewsPage />
+        
     </div>
   );
 }

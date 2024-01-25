@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.8",
-    "canvas": "^2.9.3",
+    "date-fns": "^3.3.1",
     "emailjs-com": "^3.2.0",
     "framer-motion": "^6.2.8",
     "gatsby": "^4.9.2",
@@ -32,6 +32,7 @@
     "gatsby-transformer-sharp": "^4.9.0",
     "konva": "^8.3.10",
     "netlify-cms-app": "^2.15.68",
+    "pexels": "^1.4.0",
     "popmotion": "^11.0.3",
     "postcss": "^8.4.8",
     "react": "^17.0.1",
