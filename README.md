@@ -48,3 +48,9 @@ The website for the ACM Student Chapter of Mapua Malayan Colleges Laguna. Built 
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+
+
+## 💻 New Feature
+### See the Latest News in Tech!
+![image](https://github.com/grgttdln/acm.mcl-ccis.net/assets/85463029/f0b17056-4b30-489d-a774-03735cb30f3c)
+
